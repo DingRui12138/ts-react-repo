@@ -1,0 +1,11 @@
+export const ADMIN = 'ADMIN'
+export type ADMIN = typeof ADMIN
+
+export const NORMAL = 'NORMAL'
+export type NORMAL = typeof NORMAL
+
+export const INCREMENT_ENTHUSIASM = 'INCREMENT_ENTHUSIASM'
+export type INCREMENT_ENTHUSIASM = typeof INCREMENT_ENTHUSIASM
+
+export const DECREMENT_ENTHUSIASM = 'DECREMENT_ENTHUSIASM'
+export type DECREMENT_ENTHUSIASM = typeof DECREMENT_ENTHUSIASM
